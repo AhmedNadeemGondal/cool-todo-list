@@ -26,15 +26,10 @@ Tasks are stored in the browser's `localStorage`, ensuring that the todo list pe
 - **FontAwesome**: For button icons.
 
 ## Installation
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/AhmedNadeemGondal/cool-todo-list.git
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd cool-todo-list
-   ```
-3. Open `index.html` in your browser to view the app locally.
 
 ## Usage
 - Add a new task by entering text and clicking the "Add" button.
