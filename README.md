@@ -39,6 +39,3 @@ Clone the repository:
 
 ## Acknowledgments
 - **FontAwesome** for providing icons used in buttons.
-
-## License
-This project is licensed under the MIT License.
